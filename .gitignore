@@ -6,6 +6,10 @@
 .*.sw[a-z]
 *.un~
 
+# files
+agent.installer.linux.gtk.x86_64_1.8.zip
+com.ibm.websphere.liberty.ND_17.0.2.20170523_1818.zip
+
 # Bundler
 Gemfile.lock
 bin/*
