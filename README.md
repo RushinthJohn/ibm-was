@@ -1,4 +1,5 @@
 # ibm-was
+<<<<<<< HEAD
 
 TODO: Enter the cookbook description here.
 
@@ -78,3 +79,6 @@ e.g.
 
 Authors: TODO: List authors
 
+=======
+Cookbook to install and deploy IBM WAS ND Liberty v8.5.5
+>>>>>>> 7598a7ca084eafd65be40f7959ad6258c19bd474
