@@ -3,9 +3,9 @@
 This file is used to list changes made in each version of the ibm-was cookbook.
 
 ## 0.1.0
-- [Rushinth John] - Initial release of kwas
+- [Rushinth John] - Initial release of ibm-was
 
-- - -
-Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
 
-The [Github Flavored Markdown page](http://github.github.com/github-flavored-markdown/) describes the differences between markdown on github and standard markdown.
+## 1.1.5
+- [Rushinth John] - Fixed major Bugs
+
